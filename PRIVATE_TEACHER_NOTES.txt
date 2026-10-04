@@ -1,0 +1,17 @@
+ENGLISH WITH FILIPE — PRIVATE TEACHER NOTES
+
+DO NOT SEND THIS FILE TO STUDENTS.
+
+Teacher account
+Email: teacher@englishwithfilipe.com
+Password: Filipe2026!
+Role: teacher
+
+Student access
+Students use their own email + password to log in and save test results.
+They can create an account from the Login window, or the teacher can give them the credentials for an account already created.
+
+Important
+- The Teacher Lab is restricted to the teacher account.
+- The teacher credential is no longer displayed inside the website login window or footer.
+- Change the teacher password before using the platform with real students or exposing the server publicly.
